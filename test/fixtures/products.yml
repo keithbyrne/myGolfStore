@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  itemname: MyString
+  description: MyString
+  size: MyString
+  solgid: 9.99
+
+two:
+  itemname: MyString
+  description: MyString
+  size: MyString
+  solgid: 9.99
